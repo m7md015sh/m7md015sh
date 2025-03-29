@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shokry</h1>
-<h3 align="center">Flutter Specialist | Transforming Creativity into Seamless Apps</h3>
+<h1>Hi 👋, I'm Mohamed Shokry</h1>
+<h3 >Flutter Specialist | Transforming Creativity into Seamless Apps</h3>
 
 - 🔭 I’m currently working as **Mobile Developer**
 
