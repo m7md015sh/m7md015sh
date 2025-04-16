@@ -1,4 +1,10 @@
 <h1>Hi 👋, I'm Mohamed Shokry</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+</p>
+
+
 <h3 >Flutter Specialist | Transforming Creativity into Seamless Apps</h3>
 
 - 🔭 I’m currently working as **Mobile Developer**
