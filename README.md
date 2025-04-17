@@ -27,10 +27,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m7md015sh&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m7md015sh&theme=2077)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m7md015sh&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m7md015sh&theme=2077" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m7md015sh&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m7md015sh&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m7md015sh&theme=2077&utcOffset=8)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m7md015sh&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m7md015sh&theme=2077&utcOffset=8" />
+</p>
