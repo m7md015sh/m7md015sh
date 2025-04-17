@@ -27,12 +27,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m7md015sh&theme=2077)
 
-<p align="center">
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m7md015sh&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m7md015sh&theme=2077" />
 </p>
 
-<p align="center">
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m7md015sh&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m7md015sh&theme=2077&utcOffset=8" />
 </p>
